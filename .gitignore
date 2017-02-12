@@ -1,0 +1,14 @@
+#Gradle artifacts
+.gradle/
+
+#Build output
+build/
+
+#Intellij files
+*.iml
+*.ipr
+*.iws
+out/
+
+#Vim swap files
+*.swp
